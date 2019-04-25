@@ -2,3 +2,5 @@ paper
 shiying_old
 talks
 src_old
+.DS_Store
+.ipynb_checkpoints
