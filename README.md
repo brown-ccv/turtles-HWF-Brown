@@ -1,5 +1,9 @@
 # turtles-HWF-Brown
 
+![Static Badge](https://img.shields.io/badge/ARCHIVED-red)
+
+**This repo was archived February 2026, due to inactivity.**
+
 We will analyze a rich dataset on the basking behavior of green sea turtles. This is a collaboration between data scientists at the Center for Computation and Visualization at Brown University and the Hawaii Wildlife Fund, a non-profit wildlife conservation organization. Green sea turtles are endangered marine animals that bask or rest on beaches. Maui’s Ho’okipa beach hosts one of the largest and densest basking aggregations in the state of Hawaii. Volunteers from the Hawaii Wildlife Fund are stationed at the beach from approximately 2:30 – 7:30pm every day of the year with the exception of severe weather conditions (hurricane force winds, etc.). They have been recording human visitor and basking turtle counts on the beach for years. 
 
 We developed a regression model to predict one day ahead how many turtles and humans will be on the beach as a function of expected weather and sea conditions and historical data.
